@@ -19,7 +19,7 @@ The **Hospital Management System** is a Django-based web application designed to
 - **Database**: SQLite
 - **Email Service**: SMTP (Simple Mail Transfer Protocol)
 
-### Steps
+## Installation and Setup
 
 1. **Clone the Repository**
 
