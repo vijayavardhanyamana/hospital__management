@@ -15,12 +15,12 @@ The **Hospital Management System** is a Django-based web application designed to
 
 To set up and run this project locally, follow these steps:
 
-### Prerequisites
+## Technology Stack
 
-- Python 3.x
-- Django 4.x
-- A virtual environment tool like `venv` or `virtualenv`
-- PostgreSQL (or any other database supported by Django)
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Django
+- **Database**: SQLite
+- **Email Service**: SMTP (Simple Mail Transfer Protocol)
 
 ### Steps
 
