@@ -27,5 +27,6 @@ To set up and run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/vijayavardhanyamana/hospital__management.git
    cd hospital-management-system
+
