@@ -11,9 +11,6 @@ The **Hospital Management System** is a Django-based web application designed to
 - **Email Notifications**: OTP verification during signup and appointment confirmation emails with details sent to patients.
 - **Multi-Hospital Support**: Allows booking appointments with doctors from multiple hospitals.
 
-## Installation
-
-To set up and run this project locally, follow these steps:
 
 ## Technology Stack
 
